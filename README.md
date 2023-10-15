@@ -4,7 +4,7 @@ Estudante de front-and 📓
 
 [ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/g_portaluppi/)
 
-![gabrielportaluppi GitHub stats](https://github-readme-stats.vercel.app/api?username=b-Portaluppi&show_icons=true&theme=dark)
+![gabrielportaluppi GitHub stats](https://github-readme-stats.vercel.app/api?username=b-Portaluppi&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-Portaluppi&layout=compact&theme=dark)
 
 ### Tecnologias do meu dia a dia
 
